@@ -1,0 +1,1 @@
+curl -x GET https://newtonbreakoutrevival.onrender.com/game/scoreboard
